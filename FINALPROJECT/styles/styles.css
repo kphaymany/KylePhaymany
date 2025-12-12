@@ -1,0 +1,160 @@
+/* Title */ 
+div.title {
+  background-color: #0c2e72;
+  padding: 3% 10% 8%;  
+}
+
+.title-image {
+  height: 100%;
+  width: 100%;
+}
+
+
+h1 {
+  color: #F1F4F6;
+  font-weight: bold;
+}
+
+h2 {
+  color: #F1F4F6;
+  font-weight: bold;
+}
+
+h3 {
+  color: #F1F4F6;
+  font-family: Georgia;
+}
+
+/*Education*/
+
+#education {
+ padding: 3% 3% 3% 0;
+}
+
+h1.education {
+  font-weight: bold;
+  color: black;
+}
+
+h2.education {
+  font-weight: bold;
+  font-family: Georgia;
+  color: black
+}
+
+h3.education {
+  font-family: Georgia;
+  color: black;
+}
+ul.education {
+  font-family: Georgia;
+  color: black;
+  font-size: 120%;
+}
+
+/* Skills */
+
+#skills {
+  padding: 1% 1% 1%;
+  background-color: #0c2e72;
+}
+
+
+.skill-box {
+  padding: 3%;
+}
+
+h3.skills {
+  color: #F1F4F6;
+}
+h4.skills {
+  color: #F1F4F6;
+  font-family: Georgia;
+}
+ul.skills {
+  color: #F1F4F6;
+}
+/* Work Experience */
+
+.image-experience {
+  height: 70%;
+  object-fit: cover;
+  max-height: 450px;
+  align-self: center;
+  display: block;
+  z-index: 1;
+}
+
+
+#experience {
+  background-color: #F1F4F6;
+  padding: 3% 0 0 0;
+  z-index: 1;
+  position: relative;
+}
+
+.imgex {
+  max-height: 400px;
+}
+
+ul {
+  font-size: 120%;
+  color: black;
+}
+
+ol {
+  font-size: 120%;
+
+}
+.experience {
+ color: black;
+}
+
+/*Work*/
+p {
+  font-size: 20px;
+}
+#work {
+  padding: 3% 3% 3%;
+  background-color: #0c2e72;
+  color: #F1F4F6;
+}
+.project-image {
+  height: 70%;
+  margin: 2%;
+}
+
+ul.work {
+  font-family: Georgia;
+  color: #F1F4F6;
+  font-size: 120%;
+}
+
+h3.work {
+  font-family: Georgia;
+  color: #F1F4F6;
+}
+
+/*Resume*/
+
+#resume {
+  text-align: center;
+  color: black;
+  background-color: #F1F4F6; 
+}
+
+h3.resume {
+  color: black;
+}
+
+/*footer*/
+
+#footer {
+  text-align: center;
+  color: gray;
+  font-size: 20px;
+}
+
+h3.foot {
+  color: gray;
+}
